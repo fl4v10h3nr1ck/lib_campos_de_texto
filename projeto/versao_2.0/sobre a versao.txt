@@ -1,0 +1,14 @@
+
+
+versão (2.0)
+
+melhorias:
+
+
+---> adicionado o campo de email com validação.
+
+---> modo de erro adicionado internamente ao componente (recurso agora é nativo do componente).
+
+---> modo de erro ativado automaticamente no campo validação.
+
+---> adição de validação completa para CPF e CNPJ, além da validação léxica é realizado a validação dos dígitos verificadores.
